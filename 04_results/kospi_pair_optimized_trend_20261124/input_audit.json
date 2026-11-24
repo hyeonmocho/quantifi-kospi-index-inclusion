@@ -1,0 +1,47 @@
+[
+  {
+    "field": "float_ratio",
+    "file": "01_data\\processed\\fnguide\\유동주식비율_1120.csv",
+    "xlsx": "01_data\\raw\\fnguide\\유동주식비율_1120.xlsx",
+    "csv_sha256": "b6a63fdee2017ce5bcc6939d1dc242e4f28d41278bf4f224fcb5168d92959513",
+    "xlsx_sha256": "53ba7eed2a503569b71ef30a5c9796a69cebb5e0a62ac7595f92c3f89879f9f1",
+    "rows": 6626,
+    "codes": 4013,
+    "first": "2000-01-04",
+    "last": "2026-11-20",
+    "latest_valid": 2636,
+    "latest_members": null,
+    "overlap_numeric_differences_gt_1e_6": 8784,
+    "overlap_10pct_eligibility_changes": 35,
+    "old_missing_now_present": 0,
+    "old_present_now_missing": 0
+  },
+  {
+    "field": "KOSPI100",
+    "file": "01_data\\processed\\fnguide\\코스피100_구성종목여부_1120.csv",
+    "xlsx": "01_data\\raw\\fnguide\\코스피100_구성종목여부_1120.xlsx",
+    "csv_sha256": "2d0e0a7957922a434fa4a657d6fa527405e568b9ce2302d81f5edc2641ffae82",
+    "xlsx_sha256": "7d0c1d1fa7a32a215bbb4d97689c2c640ef0da0528767da3dc7b491bbb6e5a29",
+    "rows": 6626,
+    "codes": 4013,
+    "first": "2000-01-04",
+    "last": "2026-11-20",
+    "latest_valid": 4013,
+    "latest_members": 100,
+    "official_snapshot_mismatches": 0
+  },
+  {
+    "field": "KOSPI200",
+    "file": "01_data\\processed\\fnguide\\코스피200_구성종목여부_1120.csv",
+    "xlsx": "01_data\\raw\\fnguide\\코스피200_구성종목여부1120.xlsx",
+    "csv_sha256": "c59bc407e1806feecf6c8a7373827568eea7210dac88f5b727d9915973a726c2",
+    "xlsx_sha256": "14f8f1a54c2eb67ae82297c4045dee05244a32f7a5e6732ebbcd473f5b124a86",
+    "rows": 6626,
+    "codes": 4013,
+    "first": "2000-01-04",
+    "last": "2026-11-20",
+    "latest_valid": 4013,
+    "latest_members": 201,
+    "official_snapshot_mismatches": 0
+  }
+]

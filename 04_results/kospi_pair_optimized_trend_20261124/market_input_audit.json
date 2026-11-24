@@ -1,0 +1,42 @@
+[
+  {
+    "field": "close",
+    "csv": "코스피_코스닥_종가_1120.csv",
+    "xlsx": "코스피_코스닥_종가_1120.xlsx",
+    "item": "종가(원)",
+    "last": "2026-11-20",
+    "last_valid": 2637,
+    "csv_sha256": "d37f8ec76f3fff41026e7123ba24dc43de3d1ebe13e76bdb335e85aacf1db9b7",
+    "xlsx_sha256": "7f5bde3c0a10a3d14f14ea813a41a43ddee01d5f3161cd1032c0667c9dc77a2e"
+  },
+  {
+    "field": "adjusted",
+    "csv": "코스피코스닥_수정주가_1120.csv",
+    "xlsx": "코스피코스닥_수정주가_1120.xlsx",
+    "item": "수정주가(원)",
+    "last": "2026-11-20",
+    "last_valid": 2637,
+    "csv_sha256": "6e6a75103f4334220251d3db6bcc7544e169398dd22aff47ed4a309d9d5b1c88",
+    "xlsx_sha256": "70b5d003ad34eae0ec1db7479a38dc995d3323a489f2fff116933c56329f17a2"
+  },
+  {
+    "field": "turnover",
+    "csv": "코스피_코스닥_거래대금_1120.csv",
+    "xlsx": "코스피_코스닥_거래대금_1120.xlsx",
+    "item": "거래대금(원)",
+    "last": "2026-11-20",
+    "last_valid": 2637,
+    "csv_sha256": "8a55949a0a0932f321be179c0db3df56019132b55547fe796cbfa5b5b0a6ba29",
+    "xlsx_sha256": "4cd2ec4ad3ab380ecf0f83c83eb73d8799e3e80d32f281507aa10d1466b6f275"
+  },
+  {
+    "field": "shares",
+    "csv": "코스피_코스닥_상장주식수_1120.csv",
+    "xlsx": "코스피_코스닥_상장주식수_1120.xlsx",
+    "item": "상장주식수(주)",
+    "last": "2026-11-20",
+    "last_valid": 2637,
+    "csv_sha256": "1ea573881b8251099a9af56ffc8d8c4cfd23559a04308856153d4c7feea9f969",
+    "xlsx_sha256": "084e4a849d621c14e40b47e14aaa5e212db58722ddc320f2c8ef629329dd67c5"
+  }
+]
