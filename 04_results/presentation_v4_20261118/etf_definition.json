@@ -1,0 +1,11 @@
+{
+  "source": "https://data-dbg.krx.co.kr/svc/apis/etp/etf_bydd_trd",
+  "retrieved": "2026-11-18T08:50:32.605375+00:00",
+  "measure": "net assets INVSTASST_NETASST_TOTAMT, not secondary trading value or net inflow",
+  "universe": "All ETFs at each requested date; no current product survivorship filter",
+  "target_groups": "exact index name, KOSPI200 price and TR combined",
+  "excluded": "active leveraged inverse covered-call futures synthetic names; non-ETF funds not covered",
+  "market_total": "All listed ETFs, including foreign underlying, bonds and active; do not call all passive or all Korean stock demand",
+  "zeros": "no classified products that date; KRX300 pre-launch unavailable/not applicable, not backfilled",
+  "yearend": "last available date on or before Dec30; 2026 asof Nov17"
+}

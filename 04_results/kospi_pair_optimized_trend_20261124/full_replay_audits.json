@@ -1,0 +1,256 @@
+[
+  {
+    "min_cash": 2923843202.923874,
+    "max_limit_excess": 1.1920928955078125e-07,
+    "all_events_closed": true,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 22,
+    "ids": [
+      "KOSPI200"
+    ],
+    "phase": "IS",
+    "n_splits": 1
+  },
+  {
+    "min_cash": 2062708229.4917197,
+    "max_limit_excess": 1.1920928955078125e-07,
+    "all_events_closed": true,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 44,
+    "ids": [
+      "KOSPI200"
+    ],
+    "phase": "IS",
+    "n_splits": 2
+  },
+  {
+    "min_cash": 1525340440.0393252,
+    "max_limit_excess": 1.1920928955078125e-07,
+    "all_events_closed": true,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 66,
+    "ids": [
+      "KOSPI200"
+    ],
+    "phase": "IS",
+    "n_splits": 3
+  },
+  {
+    "min_cash": 1244113371.5056286,
+    "max_limit_excess": 2.384185791015625e-07,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 88,
+    "ids": [
+      "KOSPI200"
+    ],
+    "phase": "IS",
+    "n_splits": 4
+  },
+  {
+    "min_cash": 0.0,
+    "max_limit_excess": 1.4901161193847656e-08,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 8,
+    "ids": [
+      "KOSPI200"
+    ],
+    "phase": "OOS",
+    "n_splits": 1
+  },
+  {
+    "min_cash": 1832128243.601788,
+    "max_limit_excess": 1.1920928955078125e-07,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 16,
+    "ids": [
+      "KOSPI200"
+    ],
+    "phase": "OOS",
+    "n_splits": 2
+  },
+  {
+    "min_cash": 2079645735.2482398,
+    "max_limit_excess": 1.1920928955078125e-07,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 24,
+    "ids": [
+      "KOSPI200"
+    ],
+    "phase": "OOS",
+    "n_splits": 3
+  },
+  {
+    "min_cash": 2157487134.3049026,
+    "max_limit_excess": 5.960464477539063e-08,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 32,
+    "ids": [
+      "KOSPI200"
+    ],
+    "phase": "OOS",
+    "n_splits": 4
+  },
+  {
+    "min_cash": 0.0,
+    "max_limit_excess": 1.1920928955078125e-07,
+    "all_events_closed": true,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 20,
+    "ids": [
+      "KOSPI100"
+    ],
+    "phase": "IS",
+    "n_splits": 1
+  },
+  {
+    "min_cash": 0.0,
+    "max_limit_excess": 4.76837158203125e-07,
+    "all_events_closed": true,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 39,
+    "ids": [
+      "KOSPI100"
+    ],
+    "phase": "IS",
+    "n_splits": 2
+  },
+  {
+    "min_cash": 209920900.727985,
+    "max_limit_excess": 9.5367431640625e-07,
+    "all_events_closed": true,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 59,
+    "ids": [
+      "KOSPI100"
+    ],
+    "phase": "IS",
+    "n_splits": 3
+  },
+  {
+    "min_cash": 40163727.04979139,
+    "max_limit_excess": 4.76837158203125e-07,
+    "all_events_closed": true,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 78,
+    "ids": [
+      "KOSPI100"
+    ],
+    "phase": "IS",
+    "n_splits": 4
+  },
+  {
+    "min_cash": 1341052899.389204,
+    "max_limit_excess": 2.384185791015625e-07,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 8,
+    "ids": [
+      "KOSPI100"
+    ],
+    "phase": "OOS",
+    "n_splits": 1
+  },
+  {
+    "min_cash": 1622479602.481185,
+    "max_limit_excess": 0.0,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 16,
+    "ids": [
+      "KOSPI100"
+    ],
+    "phase": "OOS",
+    "n_splits": 2
+  },
+  {
+    "min_cash": 1473709522.8264852,
+    "max_limit_excess": 1.1920928955078125e-07,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 24,
+    "ids": [
+      "KOSPI100"
+    ],
+    "phase": "OOS",
+    "n_splits": 3
+  },
+  {
+    "min_cash": 1340165361.7432547,
+    "max_limit_excess": 2.9802322387695312e-08,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 32,
+    "ids": [
+      "KOSPI100"
+    ],
+    "phase": "OOS",
+    "n_splits": 4
+  },
+  {
+    "min_cash": 317171742.46567625,
+    "max_limit_excess": 4.76837158203125e-07,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 158,
+    "ids": [
+      "KOSPI200",
+      "KOSPI100"
+    ],
+    "phase": "IS",
+    "n_splits": 4
+  },
+  {
+    "min_cash": 1340165361.7432547,
+    "max_limit_excess": 1.1920928955078125e-07,
+    "all_events_closed": false,
+    "separate_cash_accounts": true,
+    "shared_security_day_cap": true,
+    "profit_matches_event_cashflows": true,
+    "n_event_lots": 64,
+    "ids": [
+      "KOSPI200",
+      "KOSPI100"
+    ],
+    "phase": "OOS",
+    "n_splits": 4
+  }
+]

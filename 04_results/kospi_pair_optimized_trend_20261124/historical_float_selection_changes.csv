@@ -1,0 +1,5 @@
+case_id,information_date,float_pass_changes,float_changed_codes,parent_membership_changes,status,selected_parent_changes
+KOSPI100_2023-06_L20,2023-03-31,1,A003120,0,audited,
+KOSPI100_2023-06_L40,2023-03-03,1,A003120,0,audited,
+KOSPI200_2023-06_L20,2023-03-31,1,A003120,0,audited,
+KOSPI200_2023-06_L40,2023-03-03,1,A003120,0,audited,

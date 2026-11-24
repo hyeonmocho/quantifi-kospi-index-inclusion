@@ -1,0 +1,24 @@
+{
+  "missing_paths": [
+    "01_data\\processed\\fnguide\\팩터.csv"
+  ],
+  "credential_files_omitted": 0,
+  "omitted_source_paths": [],
+  "compared_broker_reports": 13,
+  "compared_originals_held": 13,
+  "compared_originals_not_local": [],
+  "collected_files": 3412,
+  "collected_bytes": 4435104158,
+  "note_on_missing_paths": "이전 이름 팩터.csv는 현재 프로젝트 경로에 없고, 발표 회귀에는 팩터_1120.csv와 동봉한 일별 회귀 입력을 사용했습니다.",
+  "verified_notebook_code_cells": 13,
+  "portfolio_days": 5150,
+  "portfolio_rows": 46755,
+  "archive_path": "04_results\\final_submission_archive_20261124",
+  "archived_files": 478,
+  "archived_bytes": 2073090347,
+  "previous_package_bytes": 6541230987,
+  "broker_original_files_retained": 30,
+  "retained_comparison_reports": 31,
+  "retained_primary_reports": 13,
+  "archive_scope": "과거 제출안, 미채택 전략, 미사용 리포트, 겹치는 중간 산출물과 원본, 실행 캐시"
+}

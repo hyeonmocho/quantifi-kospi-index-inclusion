@@ -1,0 +1,9 @@
+index_id,case_id,model,event,lead,phase,entry_date,exit_date,forecast_available
+KOSPI200,KOSPI200_2026-12_L80,shrunk_trend__count,2026-12,80,,2026-07-03,2026-12-10,True
+KOSPI100,KOSPI100_2026-12_L80,shrunk_trend__count,2026-12,80,,2026-07-03,2026-12-10,True
+KOSPI200,KOSPI200_2026-12_L60,shrunk_trend__count,2026-12,60,,2026-08-03,2026-12-10,True
+KOSPI100,KOSPI100_2026-12_L60,shrunk_trend__count,2026-12,60,,2026-08-03,2026-12-10,True
+KOSPI200,KOSPI200_2026-12_L40,shrunk_trend__count,2026-12,40,,2026-09-01,2026-12-10,True
+KOSPI100,KOSPI100_2026-12_L40,shrunk_trend__count,2026-12,40,,2026-09-01,2026-12-10,True
+KOSPI200,KOSPI200_2026-12_L20,shrunk_trend__count,2026-12,20,,2026-10-01,2026-12-10,True
+KOSPI100,KOSPI100_2026-12_L20,shrunk_trend__count,2026-12,20,,2026-10-01,2026-12-10,True

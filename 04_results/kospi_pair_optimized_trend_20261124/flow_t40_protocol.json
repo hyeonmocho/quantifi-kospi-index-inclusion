@@ -1,0 +1,7 @@
+{
+  "cohort": "TIGER200 publicly observed new basket members, 19 stocks, 3 events",
+  "window": "T-40 close anchored at zero through T+20 close",
+  "denominator": "each stock market capitalization on T-41, fixed throughout window",
+  "method": "For each stock, subtract original T-40 cumulative flow and rescale from T-81 market capitalization to T-41 market capitalization; then equal-weight stocks within each event and equal-weight 3 events",
+  "limitation": "Descriptive actor flow, not identified passive-fund orders or matched counterparties"
+}

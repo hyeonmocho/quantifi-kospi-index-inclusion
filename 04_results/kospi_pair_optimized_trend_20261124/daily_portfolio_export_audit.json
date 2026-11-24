@@ -1,0 +1,13 @@
+{
+  "first": "2006-01-02",
+  "last": "2026-11-20",
+  "trading_days": 5150,
+  "stock_days": 3328,
+  "cash_only_days": 1822,
+  "stock_rows": 41605,
+  "all_rows": 46755,
+  "last_stock_date": "2026-11-20",
+  "previous_snapshot_verified": false,
+  "valuation": "End-of-day simulated holdings. Weight denominator is combined account equity.",
+  "split": "IS and OOS are separately initialized account paths; not one uninterrupted NAV across 2023-01-01."
+}

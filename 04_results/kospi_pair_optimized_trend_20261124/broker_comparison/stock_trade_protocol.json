@@ -1,0 +1,9 @@
+{
+  "stock_return": "Actual filled sell proceeds minus filled buy cost, divided by filled buy cost; both sides include 25bp cost and liquidity-constrained execution",
+  "primary_unit": "one stock x one review event; average that stock's returns from repeated reports in the same event",
+  "sensitivity_unit": "one stock x one report",
+  "zero_fill": "none in declared_inputs sample",
+  "corporate_actions": "none in trade orders",
+  "portfolio_mean_net": "remains review-level 100억원 budget return, not comparable directly to equal-stock mean return",
+  "independence": "stock observations within one review are correlated; observation count is not independent event count"
+}

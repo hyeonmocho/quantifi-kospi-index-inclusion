@@ -1,0 +1,18 @@
+{
+  "criterion": "standalone IS CD91-adjusted daily Sharpe; MDD then distance to baseline break ties",
+  "IS_end": "2022-12-31",
+  "OOS": [
+    "2023-01-02",
+    "2026-11-20"
+  ],
+  "parameters": {
+    "KOSPI100": [
+      1.0,
+      "unbounded"
+    ],
+    "KOSPI200": [
+      0.25,
+      0.2
+    ]
+  }
+}

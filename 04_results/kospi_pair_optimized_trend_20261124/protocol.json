@@ -1,0 +1,28 @@
+{
+  "primary_rule": "confirmed entrants sell from rebalance close; misses sell from first close after announcement, subject to same daily turnover cap",
+  "budget_each_krw": 10000000000,
+  "source_200": "dated KRX complete 200-stock roster, first public vintage only",
+  "source_100": "observed daily membership at effective date",
+  "KOSPI100_publication_gap": "when KOSPI100 date absent, KOSPI200 same-review publication date is a timing proxy",
+  "KOSPI200_pending_events": [
+    "2017-06",
+    "2021-06"
+  ],
+  "selection": {
+    "KOSPI100": [
+      1.0,
+      "unbounded"
+    ],
+    "KOSPI200": [
+      0.25,
+      0.2
+    ]
+  },
+  "fee_each_side": 0.0025,
+  "daily_participation": 0.1,
+  "updated": "2026-11-23",
+  "h2_market_inputs": "FnGuide 1120 close, adjusted close, turnover and listed shares",
+  "h2_cap": "Unadjusted close times same-session shares",
+  "historical_prefix": "Existing audited inputs through June 2026",
+  "parameter_selection": "Standalone IS CD91-adjusted Sharpe, applied unchanged to OOS; four entries fixed"
+}

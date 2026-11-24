@@ -1,0 +1,50 @@
+{
+  "IS_start": {
+    "KOSPI200": "2002-01-01",
+    "KOSPI100": "2006-01-01",
+    "KRX300": "2018-07-01"
+  },
+  "IS_end_year": {
+    "KOSPI200": 2016,
+    "KOSPI100": 2016,
+    "KRX300": 2022
+  },
+  "standalone_OOS_start_year": {
+    "KOSPI200": 2017,
+    "KOSPI100": 2017,
+    "KRX300": 2023
+  },
+  "combined_OOS": [
+    "2023-01-02",
+    "2026-06-30"
+  ],
+  "models": {
+    "KOSPI200": "shrunk_trend__count",
+    "KOSPI100": "shrunk_trend__count",
+    "KRX300": "shrunk_trend__count"
+  },
+  "selected_splits": {
+    "KOSPI200": 3,
+    "KOSPI100": 4,
+    "KRX300": 1
+  },
+  "lead_sequence": [
+    80,
+    60,
+    40,
+    20
+  ],
+  "fee_per_side": 0.0025,
+  "capital_per_sleeve_krw": 10000000000,
+  "selection": "maximum daily account Sharpe on original index-specific IS cohorts",
+  "sharpe_basis": "lagged annual KRW CD91, ACT/365, sample SD of net daily excess returns, sqrt(252); first interval one day; cash interest zero",
+  "coverage": "early archived research proxies; use dated rules at checkpoints where then available",
+  "missing_signal": "unallocated tranche remains cash; disclosed in missing_signals.csv",
+  "historical_rank_feature": "KOSPI100 auxiliary rank-change indicator retained from historical inputs",
+  "order_checks": {
+    "closed_tranches": 56,
+    "max_limit_excess_krw": 5.960464477539063e-08,
+    "minimum_cash_krw": 63505982.18571551,
+    "ledger_profit_reconciled": true
+  }
+}
